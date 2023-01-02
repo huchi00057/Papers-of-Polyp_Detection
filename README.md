@@ -13,6 +13,8 @@ They are arrangements related to colorectal polyps.
 |[YOLOv7 Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors.pdf](https://github.com/huchi00057/Papers-of-Polyp_Detection/files/9969256/YOLOv7.Trainable.bag-of-freebies.sets.new.state-of-the-art.for.real-time.object.detectors.pdf)|July 2022|[Note_YOLOv7](https://github.com/huchi00057/Papers-of-Polyp_Detection/files/9969309/YOLOv7.Trainable.bag-of-freebies.sets.new.state-of-the-art.for.real-time.object.detectors.pdf)|
 |[Colonoscopic_Polyp_Classification_Using_Local_Shape_and_Texture_Features.pdf](https://github.com/huchi00057/Papers-of-Polyp_Detection/files/9969267/Colonoscopic_Polyp_Classification_Using_Local_Shape_and_Texture_Features.pdf)|June 2021|待上傳|
 |[Classification of Polyps and Adenomas Using Deep Learning Model in Screening Colonoscopy](https://github.com/huchi00057/Papers-of-Polyp_Detection/files/9969294/Classification.of.Polyps.and.Adenomas.Using.Deep.Learning.Model.in.Screening.Colonoscopy.pdf)|October 2019|[Note](https://github.com/huchi00057/Papers-of-Polyp_Detection/files/9969307/Classification.of.Polyps.and.Adenomas.Using.Deep.Learning.Model.in.Screening.Colonoscopy.pdf)|
+|[A deep ensemble learning method for colorectal polyp classification with optimized network parameters][A deep ensemble learning method for colorectal polyp classification with optimized network parameters.pdf](https://github.com/huchi00057/Papers-of-Polyp_Detection/files/10332388/A.deep.ensemble.learning.method.for.colorectal.polyp.classification.with.optimized.network.parameters.pdf)|[Note]|May 2022|待上傳|
+
 
 
 
